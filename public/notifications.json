@@ -1,0 +1,39 @@
+[
+    {
+      "id": "1",
+      "message": "New ticket purchase for \"Tech Conference\"",
+      "timestamp": "2m ago",
+      "isRead": false
+    },
+    {
+      "id": "2",
+      "message": "Event \"Birthday Party\" starts in 2 days",
+      "timestamp": "1h ago",
+      "isRead": true
+    },
+    {
+      "id": "3",
+      "message": "New event \"Music Festival\" added!",
+      "timestamp": "5h ago",
+      "isRead": false
+    },
+    {
+      "id": "4",
+      "message": "New registration for \"Summer Music Festival\"",
+      "timestamp": "1d ago",
+      "isRead": true
+    },
+    {
+      "id": "5",
+      "message": "\"Tech Conference\" starts in 3 hours!",
+      "timestamp": "2d ago",
+      "isRead": false
+    },
+    {
+      "id": "6",
+      "message": "Reminder: \"Birthday Party\" in 24 hours",
+      "timestamp": "3d ago",
+      "isRead": false
+    }
+  ]
+  
